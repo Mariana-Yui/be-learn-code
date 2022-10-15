@@ -39,4 +39,5 @@ func main() {
 	convertBin(826382)
 	printFile("abc.txt")
 	// forever()
+
 }
